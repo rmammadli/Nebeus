@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rmammadov/Desktop/Rintral/template/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/rmammadov/Desktop/Rintral/template/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/rmammadov/Desktop/Rintral/nebeus/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/rmammadov/Desktop/Rintral/nebeus/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/res/raw/gtm_analytics"
+    }
+]
