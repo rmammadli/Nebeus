@@ -130,7 +130,7 @@
 
         <meta-data
             android:name="onesignal_app_id"
-            android:value="610caee0-739d-44f2-bb3f-41f27ff2bebe" />
+            android:value="5ceb9617-95f7-44da-b76c-9e688a7483f3" />
         <meta-data
             android:name="onesignal_google_project_number"
             android:value="str:470782289602" />

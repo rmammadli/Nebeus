@@ -37,8 +37,8 @@ public final class R {
 	public static final class drawable {
 		public static final int common_full_open_on_phone = 0x7f02004a;
 		public static final int common_ic_googleplayservices = 0x7f02004b;
-		public static final int powered_by_google_dark = 0x7f020091;
-		public static final int powered_by_google_light = 0x7f020092;
+		public static final int powered_by_google_dark = 0x7f020092;
+		public static final int powered_by_google_light = 0x7f020093;
 	}
 	public static final class id {
 		public static final int adjust_height = 0x7f0d0036;

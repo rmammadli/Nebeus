@@ -13,7 +13,7 @@ android {
 
         //Optionally configure your OneSignal IDs below
         manifestPlaceholders = [manifestApplicationId: "${applicationId}",
-                                onesignal_app_id: "610caee0-739d-44f2-bb3f-41f27ff2bebe",
+                                onesignal_app_id: "5ceb9617-95f7-44da-b76c-9e688a7483f3",
                                 onesignal_google_project_number: "470782289602"]
     }
     buildTypes {
