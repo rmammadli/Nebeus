@@ -6,5 +6,7 @@
     <dimen name="splash_progressbar_width">48dp</dimen>
     <dimen name="splash_progressbar_height">48dp</dimen>
     <dimen name="margin_bottom">16dp</dimen>
-    <dimen name="splash_padding">72dp</dimen>
+    <dimen name="splash_padding">120dip</dimen>
+    <dimen name="splash_logo_height">96dip</dimen>
+    <dimen name="splash_logo_width">170dip</dimen>
 </resources>

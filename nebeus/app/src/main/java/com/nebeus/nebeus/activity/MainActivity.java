@@ -162,6 +162,7 @@ public class MainActivity extends AppCompatActivity implements DrawerFragment.Dr
         // showing the splash screen
         if (Config.SPLASH) {
             findViewById(R.id.imageLoading1).setVisibility(View.VISIBLE);
+            findViewById(R.id.imageLoading2).setVisibility(View.VISIBLE);
             findViewById(R.id.progress_splash).setVisibility(View.VISIBLE);
 
             //getFragment().browser.setVisibility(View.GONE);
@@ -283,6 +284,8 @@ public class MainActivity extends AppCompatActivity implements DrawerFragment.Dr
                     // hide splash image
                     if (findViewById(R.id.imageLoading1).getVisibility() == View.VISIBLE) {
                         findViewById(R.id.imageLoading1).setVisibility(
+                                View.GONE);
+                        findViewById(R.id.imageLoading2).setVisibility(
                                 View.GONE);
                         findViewById(R.id.progress_splash).setVisibility(View.GONE);
                         // show webview

@@ -58,13 +58,23 @@
             android:id="@+id/imageLoading1"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
-            android:background="@color/colorSplash"
+            android:background="@color/primary"
             android:clickable="true"
             android:contentDescription="@string/app_name"
-            android:src="@drawable/ic_logo_nb"
-            android:visibility="gone"
-            android:padding="@dimen/splash_padding"/>
+            android:foregroundGravity="center"
+            android:padding="@dimen/splash_padding"
+            android:visibility="gone" />
 
+        <ImageView
+            android:id="@+id/imageLoading2"
+            android:layout_width="@dimen/splash_logo_width"
+            android:layout_height="@dimen/splash_logo_height"
+            android:layout_centerInParent="true"
+            android:clickable="true"
+            android:contentDescription="@string/app_name"
+            android:foregroundGravity="center"
+            android:src="@drawable/nebeus_launch_android"
+            android:visibility="gone" />
 
         <com.lsjwzh.widget.materialloadingprogressbar.CircleProgressBar
             android:id="@+id/progress_splash"

@@ -28,7 +28,7 @@ public class Config {
     //The titles of your web items
     public static final Object[] TITLES = new Object[]{"Nebeus"};
     //The URL's of your web items
-    public static final String[] URLS = new String[]{"https://nebeus.com"};
+    public static final String[] URLS = new String[]{"https://nebeus.com/"};
     //The icons of your web items
     public static final int[] ICONS = new int[]{};
 

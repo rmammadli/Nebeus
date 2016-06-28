@@ -229,5 +229,4 @@ public class WebToAppChromeClient extends WebChromeClient {
     public CustomViewCallback getCustomViewCallback() {
         return mCustomViewCallback;
     }
-
 }
